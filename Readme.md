@@ -51,7 +51,8 @@ FlowMate’s bright and ultra-feminine interface makes tracking your health not 
 git clone https://github.com/yourusername/FlowMate.git
 cd FlowMate
 
-### 🩷 Project structure
+## 🩷 Project structure
+
 FlowMate/
 │
 ├── app.py                # Main Streamlit app (contains UI, logic, AI chat)
